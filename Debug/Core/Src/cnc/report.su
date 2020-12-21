@@ -1,0 +1,9 @@
+report.c:3:6:report	392	static
+report.c:76:6:grbl_send	0	static
+report.c:80:6:report_tls_param	24	static
+report.c:94:6:report_status_message	0	static
+report.c:102:6:report_alarm_message	0	static
+report.c:112:6:report_feedback_message	0	static
+report.c:116:6:report_init_message	0	static
+report.c:121:6:report_grbl_settings	0	static
+report.c:127:6:report_probe_parameters	24	static

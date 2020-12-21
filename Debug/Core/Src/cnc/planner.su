@@ -1,0 +1,16 @@
+planner.c:97:13:planner_recalculate	56	static
+planner.c:20:10:plan_next_block_index	0	static
+planner.c:168:6:plan_reset_buffer	0	static
+planner.c:163:6:plan_reset	8	static
+planner.c:175:6:plan_discard_current_block	8	static
+planner.c:184:15:plan_get_system_motion_block	0	static
+planner.c:188:15:plan_get_current_block	0	static
+planner.c:193:7:plan_get_exec_block_exit_speed_sqr	0	static
+planner.c:199:9:plan_check_full_buffer	0	static
+planner.c:208:7:plan_compute_profile_nominal_speed	24	static
+planner.c:244:6:plan_update_velocity_profile_parameters	32	static
+planner.c:259:9:plan_buffer_line	104	static
+planner.c:391:6:plan_sync_position	0	static
+planner.c:401:10:plan_get_block_buffer_available	0	static
+planner.c:409:10:plan_get_block_buffer_count	0	static
+planner.c:417:6:plan_cycle_reinitialize	8	static

@@ -1,0 +1,7 @@
+motion.c:9:6:mc_line	16	static
+motion.c:54:6:mc_arc	96	static
+motion.c:157:6:mc_dwell	8	static
+motion.c:165:6:mc_homing_cycle	8	static
+motion.c:221:9:mc_probe_cycle	32	static
+motion.c:286:6:mc_parking_motion	16	static
+motion.c:312:6:mc_reset	8	static

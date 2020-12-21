@@ -1,0 +1,13 @@
+steppers.c:121:6:onStepperResetTimer	8	static
+steppers.c:250:6:TIM2_IRQHandler	0	static
+steppers.c:254:6:TIM3_IRQHandler	0	static
+steppers.c:259:6:stepper_init	80	static
+steppers.c:326:6:st_wake_up	8	static
+steppers.c:374:6:st_go_idle	8	static
+steppers.c:127:6:onStepperDriverTimer	24	static
+steppers.c:382:6:st_update_plan_block_parameters	16	static
+steppers.c:426:6:st_generate_step_dir_invert_masks	28	static
+steppers.c:352:6:st_reset	8	static
+steppers.c:457:6:st_prep_buffer	96	static
+steppers.c:846:7:st_get_realtime_rate	0	static
+steppers.c:854:6:set_stepper_disable	0	static

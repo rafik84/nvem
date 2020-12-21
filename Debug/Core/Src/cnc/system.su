@@ -1,0 +1,17 @@
+system.c:11:9:system_execute_line	32	static
+system.c:189:9:system_check_safety_door_ajar	0	static
+system.c:198:6:system_set_exec_state_flag	0	static
+system.c:202:6:system_clear_exec_state_flag	0	static
+system.c:206:6:system_set_exec_alarm	0	static
+system.c:210:6:system_clear_exec_alarm	0	static
+system.c:214:6:system_set_exec_motion_override_flag	0	static
+system.c:218:6:system_set_exec_accessory_override_flag	0	static
+system.c:222:6:system_clear_exec_motion_overrides	0	static
+system.c:226:6:system_clear_exec_accessory_overrides	0	static
+system.c:231:6:system_flag_wco_change	0	static
+system.c:239:7:system_convert_axis_steps_to_mpos	8	static
+system.c:246:6:system_convert_array_steps_to_mpos	16	static
+system.c:254:6:system_convert_array_steps_to_wpos	48	static
+system.c:267:9:system_check_travel_limits	32	static
+system.c:291:9:system_control_get_state	0	static
+system.c:315:9:get_limit_pin_mask	0	static
